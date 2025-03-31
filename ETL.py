@@ -4,7 +4,9 @@ import pandas as pd
 from psycopg2 import OperationalError
 from dotenv import load_dotenv
 from pymongo import MongoClient
-
+from sqlalchemy import create_engine
+from sqlalchemy import types as sa_types 
+from bson import ObjectId
 
 def create_connection():
     try:
@@ -56,7 +58,41 @@ def get_dataframe_from_table(conn, table_name):
     except Exception as e:
         print(f"Error al cargar {table_name}: {e}")
         return None
-    
+
+def save_to_data_warehouse(df, table_name):
+
+    if '_id' in df.columns:
+        df['_id'] = df['_id'].apply(lambda x: str(x) if isinstance(x, ObjectId) else x)
+    try:
+        # credenciales para wl data warehouse
+        db_config = {
+            'dbname': os.getenv("DW_NAME"),  
+            'user': os.getenv("DW_USER"),  
+            'password': os.getenv("DW_PASS"),  
+            'host': 'localhost',
+            'port': os.getenv("DW_PORT")
+        }
+        # conn con SQLAlchemy 
+        engine = create_engine(
+            f"postgresql+psycopg2://{db_config['user']}:{db_config['password']}@{db_config['host']}:{db_config['port']}/{db_config['dbname']}"
+        )
+        # guardar el df
+        df.to_sql(
+            name=table_name,
+            con=engine,
+            if_exists='replace',  
+            index=False,
+            method='multi',  
+            chunksize=1000  
+        )
+        print(f"\nDataFrame guardado exitosamente en {db_config['dbname']}.{table_name}")
+        return True
+    except Exception as e:
+        print(f"\nError al guardar en data warehouse: {str(e)}")
+        print("\nTipos de datos en el DataFrame:")
+        print(df.dtypes)
+        return False
+
 load_dotenv()
 
 connection = create_connection()
@@ -155,7 +191,18 @@ if connection is not None and mongo_db is not None and not df_postgre_completo.e
     print(df_final.columns)
     print(df_final.shape)
 
+    valores_nulos_por_columna = df_final.isna().sum()
+    print(valores_nulos_por_columna)
+
     df_final.to_csv('paises_turisticos_data_warehouse.csv', index=False, encoding='utf-8-sig')
 
+    if not df_final.empty:
+        succes = save_to_data_warehouse(df_final, 'paises_turisticos')
 
-
+        if succes:
+            print("Se ha guardado la información en el DW")
+        else: 
+            print("No se ha guardado la información en el DW")
+    
+    else:
+        print("El df_final se encontraba vacío")
