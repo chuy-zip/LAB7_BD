@@ -91,7 +91,7 @@ if connection:
 
     connection.close()
 
-    # ahora la parte de mongoDB
+# ahora la parte de mongoDB
 
 mongo_db = connect_to_mongodb()
 
@@ -112,6 +112,7 @@ if mongo_db != None:
     df_costos_normalized = pd.concat([df_costo_globales.drop('costos_diarios_estimados_en_dólares', axis=1), costos_expanded], axis=1)
     print("\nColumnas normalizadas:")
     print(df_costos_normalized.columns)
+    print(df_costos_normalized.shape)
 
     big_mac_data = list(mongo_db['paises_mundo_big_mac'].find({}))
     df_big_mac = pd.DataFrame(big_mac_data).drop("_id", axis=1, errors='ignore')
@@ -126,10 +127,35 @@ if mongo_db != None:
         how='left'
     )
 
-    df_mongo_completo = df_mongo_completo.drop(columns=['_id', 'pais_clean'])
+    df_mongo_completo = df_mongo_completo.drop(columns=['pais_clean'])
 
     print("\n Luego de agregar big mac columna:")
     print(df_mongo_completo.columns)
     print(df_mongo_completo.shape)
+
+
+# combinacion de postgres y mongo
+if connection is not None and mongo_db is not None and not df_postgre_completo.empty and not df_mongo_completo.empty:
+    df_postgre_completo['pais_clean'] = df_postgre_completo['pais'].str.lower().str.strip()
+    df_mongo_completo['pais_clean'] = df_mongo_completo['país'].str.lower().str.strip()
+
+    #Realmente la unica columna que no tiene el set de datos de mongo es la columna de tasa de envejecimiento.
+    # aparte de esta columna, todas las columnas de postgres ya se incluyen dentro de los datos de mongo.
+    # columnas como la capital, población y todas las variaciones de los costos/precios diarios 
+    df_final = pd.merge(
+        df_mongo_completo,
+        df_postgre_completo[['pais_clean', 'tasa_de_envejecimiento']],
+        on='pais_clean',
+        how='left'
+    )
+
+    df_final = df_final.drop(columns=['pais_clean'])
+
+    print("\nColumnas finales luego del merge con postgres y mongo")
+    print(df_final.columns)
+    print(df_final.shape)
+
+    df_final.to_csv('paises_turisticos_data_warehouse.csv', index=False, encoding='utf-8-sig')
+
 
 
