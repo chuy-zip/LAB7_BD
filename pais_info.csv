@@ -1,0 +1,107 @@
+id_pais,nombre_pais,continente,poblacion,tasa_de_envejecimiento,id,continente_1,pais,poblacion_1,costo_bajo_hospedaje,costo_promedio_comida,costo_bajo_transporte,costo_promedio_entretenimiento
+33,Ruanda,África,12952218,6.3,67e2130bc29aa80afae47e7f,África,Ruanda,12952218,7,17,17,45
+51,Namibia,África,2540905,24.39,67e2130bc29aa80afae47e80,África,Namibia,2540905,8,25,11,14
+64,Mozambique,África,31255435,12.14,67e2130bc29aa80afae47e7a,África,Mozambique,31255435,9,41,9,32
+30,Camerún,África,26545863,5.93,67e2130bc29aa80afae47e7b,África,Camerún,26545863,9,18,26,43
+7,Angola,África,32866272,6.16,67e2130bc29aa80afae47e7c,África,Angola,32866272,9,30,15,45
+84,Nepal,Asia,29136808,6.27,67e213cec29aa80afae47e96,Asia,Nepal,29136808,10,21,37,57
+52,Tanzania,África,59734218,20.5,67e2130bc29aa80afae47e75,África,Tanzania,59734218,11,18,29,17
+11,Irán,Asia,83992949,5.41,67e213cec29aa80afae47e93,Asia,Irán,83992949,11,53,37,26
+38,Zambia,África,18383955,6.95,67e2130bc29aa80afae47e79,África,Zambia,18383955,13,14,24,45
+8,Japón,Asia,126476461,22.32,67e213cec29aa80afae47e85,Asia,Japón,126476461,14,17,42,23
+78,Guatemala,América,17915568,6.48,67e21472c29aa80afae47e9a,América,Guatemala,17915568,14,72,35,63
+17,Etiopía,África,114963588,11.08,67e2130bc29aa80afae47e73,África,Etiopía,114963588,16,12,21,28
+9,Uganda,África,45741007,17.02,67e2130bc29aa80afae47e78,África,Uganda,45741007,16,36,26,33
+43,Costa Rica,América,5094118,5.69,67e21472c29aa80afae47e9d,América,Costa Rica,5094118,16,31,14,35
+99,Paraguay,América,7132530,5.51,67e21472c29aa80afae47ea6,América,Paraguay,7132530,16,68,19,21
+70,Perú,América,32971854,24.74,67e21472c29aa80afae47ea4,América,Perú,32971854,16,63,48,56
+104,Pakistán,Asia,220892340,15.17,67e213cec29aa80afae47e8d,Asia,Pakistán,220892340,16,25,26,60
+48,Túnez,África,11818619,15.4,67e2130bc29aa80afae47e77,África,Túnez,11818619,18,37,11,26
+34,Venezuela,América,28435940,23.98,67e21472c29aa80afae47ea2,América,Venezuela,28435940,18,49,27,69
+46,Ghana,África,31072940,18.25,67e2130bc29aa80afae47e74,África,Ghana,31072940,19,31,23,25
+61,Filipinas,Asia,109581078,12.77,67e213cec29aa80afae47e8a,Asia,Filipinas,109581078,19,44,32,25
+89,Marruecos,África,36910560,22.74,67e2130bc29aa80afae47e71,África,Marruecos,36910560,20,22,21,35
+26,Colombia,América,50882891,20.7,67e21472c29aa80afae47ea1,América,Colombia,50882891,20,60,34,25
+101,Costa de Marfil,África,26378274,5.63,67e2130bc29aa80afae47e7d,África,Costa de Marfil,26378274,20,30,7,31
+68,Luxembourg,Europa,634814,21.04,67e211ddc29aa80afae47e56,Europa,Luxembourg,634814,20.52,46.44,10.8,17.28
+4,Sudáfrica,África,59308690,16.97,67e2130bc29aa80afae47e6d,África,Sudáfrica,59308690,21,20,25,43
+37,Arabia Saudita,Asia,34813871,11.09,67e213cec29aa80afae47e91,Asia,Arabia Saudita,34813871,22,43,19,22
+57,San Marino,Europa,33938,6.77,67e211ddc29aa80afae47e62,Europa,San Marino,33938,22.68,41.04,14.04,20.52
+87,Moldova,Europa,2640438,19.59,67e211ddc29aa80afae47e58,Europa,Moldova,2640438,22.68,33.48,4.32,18.36
+12,Estados Unidos,América,331002651,24.4,67e21472c29aa80afae47e97,América,Estados Unidos,331002651,23,43,19,21
+29,Uzbekistán,Asia,33469203,16.85,67e213cec29aa80afae47e90,Asia,Uzbekistán,33469203,23,54,18,22
+75,Senegal,África,16743927,19.14,67e2130bc29aa80afae47e76,África,Senegal,16743927,23,36,30,32
+59,Tailandia,Asia,69799978,5.9,67e213cec29aa80afae47e88,Asia,Tailandia,69799978,24,22,30,59
+10,Corea del Sur,Asia,51269185,19.16,67e213cec29aa80afae47e86,Asia,Corea del Sur,51269185,24,28,14,18
+14,Denmark,Europa,5831404,9.25,67e211ddc29aa80afae47e48,Europa,Denmark,5831404,24.84,34.56,4.32,14.04
+94,Czech Republic,Europa,10708981,16.23,67e211ddc29aa80afae47e47,Europa,Czech Republic,10708981,24.84,37.8,12.96,17.28
+50,Slovenia,Europa,2100126,8.7,67e211ddc29aa80afae47e65,Europa,Slovenia,2100126,24.84,52.92,7.56,32.4
+36,United Kingdom,Europa,67215293,21.17,67e211ddc29aa80afae47e6a,Europa,United Kingdom,67215293,24.84,52.92,11.88,25.92
+96,Andorra,Europa,79824,14.88,67e211ddc29aa80afae47e3f,Europa,Andorra,79824,24.84,27,4.32,31.32
+42,Malasia,Asia,32365999,14.9,67e213cec29aa80afae47e8b,Asia,Malasia,32365999,25,23,29,58
+76,Switzerland,Europa,8654622,19.58,67e211ddc29aa80afae47e68,Europa,Switzerland,8654622,25.92,33.48,9.72,10.8
+41,Jordania,Asia,10203134,7.44,67e213cec29aa80afae47e94,Asia,Jordania,10203134,26,48,13,53
+86,Egipto,África,102334404,11.5,67e2130bc29aa80afae47e6f,África,Egipto,102334404,26,10,29,33
+85,Uruguay,América,3473730,11.22,67e21472c29aa80afae47ea7,América,Uruguay,3473730,27,44,42,59
+53,Nigeria,África,206139589,23.79,67e2130bc29aa80afae47e6e,África,Nigeria,206139589,28,22,15,28
+98,China,Asia,1402112000,13.55,67e213cec29aa80afae47e83,Asia,China,1402112000,28,30,21,63
+83,Malí,África,20250833,11.62,67e2130bc29aa80afae47e7e,África,Malí,20250833,28,38,24,28
+49,Indonesia,Asia,273523615,15.93,67e213cec29aa80afae47e87,Asia,Indonesia,273523615,28,60,11,40
+65,Turquía,Asia,84339067,10.62,67e213cec29aa80afae47e95,Asia,Turquía,84339067,28,35,48,36
+79,El Salvador,América,6486205,12.17,67e21472c29aa80afae47e9b,América,El Salvador,6486205,28,60,30,23
+13,Cuba,América,11326616,21.65,67e21472c29aa80afae47e9f,América,Cuba,11326616,28,57,26,31
+16,Argentina,América,45195774,8.67,67e21472c29aa80afae47ea8,América,Argentina,45195774,28,43,14,34
+2,Romania,Europa,19121610,24.01,67e211ddc29aa80afae47e60,Europa,Romania,19121610,28.08,27,15.12,22.68
+56,Kenia,África,53771296,23.44,67e2130bc29aa80afae47e70,África,Kenia,53771296,29,22,22,34
+54,Spain,Europa,47351567,22.9,67e211ddc29aa80afae47e66,Europa,Spain,47351567,29.16,45.36,9.72,32.4
+31,Panamá,América,4314767,17.15,67e21472c29aa80afae47e9e,América,Panamá,4314767,30,70,47,37
+93,Argelia,África,43851044,20.22,67e2130bc29aa80afae47e72,África,Argelia,43851044,31,41,28,28
+106,Ecuador,América,17643060,9.99,67e21472c29aa80afae47ea3,América,Ecuador,17643060,31,48,29,59
+23,Portugal,Europa,10295909,10.84,67e211ddc29aa80afae47e5f,Europa,Portugal,10295909,32.4,27,15.12,15.12
+58,Greece,Europa,10724599,8.92,67e211ddc29aa80afae47e4d,Europa,Greece,10724599,32.4,22.68,6.48,10.8
+73,Serbia,Europa,6640000,5.11,67e211ddc29aa80afae47e63,Europa,Serbia,6640000,32.4,33.48,11.88,29.16
+19,Liechtenstein,Europa,38910,13.64,67e211ddc29aa80afae47e54,Europa,Liechtenstein,38910,32.4,22.68,10.8,19.44
+45,Singapur,Asia,5850342,10.18,67e213cec29aa80afae47e8c,Asia,Singapur,5850342,33,24,14,46
+20,Belarus,Europa,9398861,10.82,67e211ddc29aa80afae47e41,Europa,Belarus,9398861,34.56,54,14.04,23.76
+90,Sweden,Europa,10327589,14.44,67e211ddc29aa80afae47e67,Europa,Sweden,10327589,34.56,24.84,9.72,27
+62,Kazajistán,Asia,18776707,10.43,67e213cec29aa80afae47e8f,Asia,Kazajistán,18776707,35,33,41,60
+88,Poland,Europa,38386000,17.75,67e211ddc29aa80afae47e5e,Europa,Poland,38386000,35.64,46.44,5.4,20.52
+5,Slovakia,Europa,5458827,8.12,67e211ddc29aa80afae47e64,Europa,Slovakia,5458827,35.64,25.92,14.04,19.44
+32,Malta,Europa,514564,8.41,67e211ddc29aa80afae47e57,Europa,Malta,514564,36.72,47.52,14.04,24.84
+74,Ukraine,Europa,41415000,21.31,67e211ddc29aa80afae47e69,Europa,Ukraine,41415000,36.72,45.36,5.4,32.4
+44,Brasil,América,212559417,23.19,67e21472c29aa80afae47eaa,América,Brasil,212559417,37,20,23,48
+69,República Dominicana,América,10847910,6.49,67e21472c29aa80afae47ea0,América,República Dominicana,10847910,37,31,21,29
+27,Austria,Europa,8917205,8.99,67e211ddc29aa80afae47e40,Europa,Austria,8917205,37.8,37.8,8.64,30.24
+77,Bangladés,Asia,164689383,20.43,67e213cec29aa80afae47e8e,Asia,Bangladés,164689383,39,61,46,36
+80,Bolivia,América,11673029,7.32,67e21472c29aa80afae47ea5,América,Bolivia,11673029,39,70,47,53
+18,Chile,América,19116201,15.5,67e21472c29aa80afae47ea9,América,Chile,19116201,39,47,51,58
+97,Cyprus,Europa,1207359,15.45,67e211ddc29aa80afae47e46,Europa,Cyprus,1207359,39.96,45.36,9.72,12.96
+40,Lithuania,Europa,2794700,13.8,67e211ddc29aa80afae47e55,Europa,Lithuania,2794700,39.96,35.64,9.72,27
+95,Monaco,Europa,39242,20.42,67e211ddc29aa80afae47e59,Europa,Monaco,39242,39.96,17.28,12.96,20.52
+71,Iceland,Europa,372520,20.44,67e211ddc29aa80afae47e4f,Europa,Iceland,372520,39.96,17.28,9.72,10.8
+55,Italy,Europa,59554023,16.96,67e211ddc29aa80afae47e51,Europa,Italy,59554023,41.04,19.44,9.72,32.4
+105,Honduras,América,9904608,23.15,67e21472c29aa80afae47e9c,América,Honduras,9904608,42,33,27,36
+103,Croatia,Europa,3854279,11.29,67e211ddc29aa80afae47e45,Europa,Croatia,3854279,43.2,47.52,15.12,18.36
+22,North Macedonia,Europa,2083821,7.79,67e211ddc29aa80afae47e5c,Europa,North Macedonia,2083821,44.28,42.12,9.72,22.68
+102,France,Europa,67391582,17.73,67e211ddc29aa80afae47e4b,Europa,France,67391582,45.36,28.08,4.32,23.76
+6,Hungary,Europa,9606259,8.12,67e211ddc29aa80afae47e4e,Europa,Hungary,9606259,45.36,21.6,11.88,19.44
+15,México,América,128932753,8.64,67e21472c29aa80afae47e99,América,México,128932753,46,57,30,37
+1,Latvia,Europa,1867231,12.49,67e211ddc29aa80afae47e53,Europa,Latvia,1867231,47.52,52.92,4.32,10.8
+63,Israel,Asia,8655535,21.57,67e213cec29aa80afae47e92,Asia,Israel,8655535,48,15,30,27
+91,Germany,Europa,83149300,7.39,67e211ddc29aa80afae47e4c,Europa,Germany,83149300,48.6,16.2,7.56,30.24
+47,India,Asia,1380004385,11.23,67e213cec29aa80afae47e84,Asia,India,1380004385,49,60,14,38
+25,Canadá,América,37742154,14.12,67e21472c29aa80afae47e98,América,Canadá,37742154,49,74,23,40
+60,Vietnam,Asia,97338579,11.51,67e213cec29aa80afae47e89,Asia,Vietnam,97338579,49,43,13,40
+35,Montenegro,Europa,621718,24.31,67e211ddc29aa80afae47e5a,Europa,Montenegro,621718,50.76,35.64,4.32,10.8
+28,Estonia,Europa,1326535,15.28,67e211ddc29aa80afae47e49,Europa,Estonia,1326535,51.84,37.8,11.88,25.92
+3,Kosovo,Europa,1800000,19.64,67e211ddc29aa80afae47e52,Europa,Kosovo,1800000,52.92,45.36,11.88,17.28
+39,Vatican City,Europa,825,18.68,67e211ddc29aa80afae47e6b,Europa,Vatican City,825,54,49.68,7.56,14.04
+72,Russia,Europa,144104080,8.97,67e211ddc29aa80afae47e61,Europa,Russia,144104080,55.08,16.2,7.56,15.12
+66,Belgium,Europa,11589623,15.85,67e211ddc29aa80afae47e42,Europa,Belgium,11589623,55.08,16.2,4.32,14.04
+82,Bosnia and Herzegovina,Europa,3280819,17.47,67e211ddc29aa80afae47e43,Europa,Bosnia and Herzegovina,3280819,55.08,27,4.32,28.08
+24,Finland,Europa,5540720,12.33,67e211ddc29aa80afae47e4a,Europa,Finland,5540720,56.16,16.2,6.48,19.44
+21,Albania,Europa,2877797,17.24,67e211ddc29aa80afae47e3e,Europa,Albania,2877797,58.32,43.2,5.4,20.52
+100,Bulgaria,Europa,6844597,7.16,67e211ddc29aa80afae47e44,Europa,Bulgaria,6844597,58.32,47.52,5.4,21.6
+92,Netherlands,Europa,17441139,19.26,67e211ddc29aa80afae47e5b,Europa,Netherlands,17441139,59.4,37.8,4.32,17.28
+81,Ireland,Europa,4994724,22.26,67e211ddc29aa80afae47e50,Europa,Ireland,4994724,59.4,50.76,11.88,17.28
+67,Norway,Europa,5421241,7.82,67e211ddc29aa80afae47e5d,Europa,Norway,5421241,65.88,22.68,8.64,29.16

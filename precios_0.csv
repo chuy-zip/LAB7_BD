@@ -1,0 +1,87 @@
+continente,región,país,capital,población,costos_diarios_estimados_en_dólares_hospedaje_bajo_usd,costos_diarios_estimados_en_dólares_hospedaje_promedio_usd,costos_diarios_estimados_en_dólares_hospedaje_alto_usd,costos_diarios_estimados_en_dólares_comida_bajo_usd,costos_diarios_estimados_en_dólares_comida_promedio_usd,costos_diarios_estimados_en_dólares_comida_alto_usd,costos_diarios_estimados_en_dólares_transporte_bajo_usd,costos_diarios_estimados_en_dólares_transporte_promedio_usd,costos_diarios_estimados_en_dólares_transporte_alto_usd,costos_diarios_estimados_en_dólares_entretenimiento_bajo_usd,costos_diarios_estimados_en_dólares_entretenimiento_promedio_usd,costos_diarios_estimados_en_dólares_entretenimiento_alto_usd,país_1,continente_1,precio_big_mac_usd
+Europa,Southern Europe,Albania,Tirana,2877797,58.3,84.2,109.1,30.2,43.2,56.2,5.4,8.6,10.8,14,20.5,25.9,Albania,Europa,5.8
+Europa,Southern Europe,Andorra,Andorra la Vella,79824,24.8,36.7,47.5,18.4,27,34.6,4.3,6.5,7.6,21.6,31.3,40,Andorra,Europa,2.1
+Europa,Western Europe,Austria,Vienna,8917205,37.8,55.1,71.3,25.9,37.8,48.6,8.6,13,16.2,20.5,30.2,38.9,Austria,Europa,5.5
+Europa,Eastern Europe,Belarus,Minsk,9398861,34.6,49.7,63.7,37.8,54,70.2,14,20.5,25.9,16.2,23.8,30.2,Belarus,Europa,4.5
+Europa,Western Europe,Belgium,Brussels,11589623,55.1,78.8,101.5,10.8,16.2,20.5,4.3,7.6,9.7,9.7,14,17.3,Belgium,Europa,4.7
+Europa,Southern Europe,Bosnia and Herzegovina,Sarajevo,3280819,55.1,78.8,101.5,18.4,27,34.6,4.3,7.6,9.7,19.4,28.1,35.6,Bosnia and Herzegovina,Europa,6.2
+Europa,Eastern Europe,Bulgaria,Sofia,6844597,58.3,84.2,109.1,32.4,47.5,61.6,5.4,8.6,10.8,15.1,21.6,28.1,Bulgaria,Europa,3.1
+Europa,Southern Europe,Croatia,Zagreb,3854279,43.2,62.6,81,32.4,47.5,61.6,15.1,21.6,28.1,11.9,18.4,23.8,Croatia,Europa,7
+Europa,Southern Europe,Cyprus,Nicosia,1207359,40,58.3,75.6,31.3,45.4,58.3,9.7,15.1,19.4,8.6,13,16.2,Cyprus,Europa,6.5
+Europa,Eastern Europe,Czech Republic,Prague,10708981,24.8,35.6,45.4,25.9,37.8,48.6,13,19.4,24.8,11.9,17.3,21.6,Czech Republic,Europa,5.3
+Europa,Northern Europe,Denmark,Copenhagen,5831404,24.8,35.6,45.4,23.8,34.6,44.3,4.3,7.6,9.7,9.7,14,17.3,Denmark,Europa,2
+Europa,Northern Europe,Estonia,Tallinn,1326535,51.8,74.5,96.1,25.9,37.8,48.6,11.9,17.3,21.6,17.3,25.9,33.5,Estonia,Europa,7.1
+Europa,Northern Europe,Finland,Helsinki,5540720,56.2,81,104.8,10.8,16.2,20.5,6.5,9.7,11.9,13,19.4,24.8,Finland,Europa,1.6
+Europa,Western Europe,France,Paris,67391582,45.4,64.8,84.2,19.4,28.1,35.6,4.3,6.5,7.6,16.2,23.8,30.2,France,Europa,4.3
+Europa,Western Europe,Germany,Berlin,83149300,48.6,70.2,90.7,10.8,16.2,20.5,7.6,11.9,15.1,20.5,30.2,38.9,Germany,Europa,5.6
+Europa,Southern Europe,Greece,Athens,10724599,32.4,46.4,59.4,15.1,22.7,29.2,6.5,9.7,11.9,7.6,10.8,14,Greece,Europa,3.8
+Europa,Eastern Europe,Hungary,Budapest,9606259,45.4,65.9,85.3,15.1,21.6,28.1,11.9,17.3,21.6,13,19.4,24.8,Hungary,Europa,5.8
+Europa,Northern Europe,Iceland,Reykjavik,372520,40,58.3,75.6,11.9,17.3,21.6,9.7,14,17.3,7.6,10.8,14,Iceland,Europa,2.7
+Europa,Northern Europe,Ireland,Dublin,4994724,59.4,85.3,110.2,34.6,50.8,65.9,11.9,17.3,21.6,11.9,17.3,21.6,Ireland,Europa,4.1
+Europa,Southern Europe,Italy,Rome,59554023,41,59.4,76.7,13,19.4,24.8,9.7,15.1,19.4,22.7,32.4,42.1,Italy,Europa,7.3
+Europa,Southern Europe,Kosovo,Pristina,1800000,52.9,76.7,99.4,31.3,45.4,58.3,11.9,17.3,21.6,11.9,17.3,21.6,Kosovo,Europa,6
+Europa,Northern Europe,Latvia,Riga,1867231,47.5,68,87.5,36.7,52.9,68,4.3,6.5,7.6,7.6,10.8,14,Latvia,Europa,1.8
+Europa,Western Europe,Liechtenstein,Vaduz,38910,32.4,47.5,61.6,15.1,22.7,29.2,10.8,16.2,20.5,13,19.4,24.8,Liechtenstein,Europa,1.9
+Europa,Northern Europe,Lithuania,Vilnius,2794700,40,57.2,73.4,24.8,35.6,45.4,9.7,14,17.3,18.4,27,34.6,Lithuania,Europa,4
+Europa,Western Europe,Luxembourg,Luxembourg,634814,20.5,30.2,38.9,32.4,46.4,59.4,10.8,16.2,20.5,11.9,17.3,21.6,Luxembourg,Europa,6.7
+Europa,Southern Europe,Malta,Valletta,514564,36.7,52.9,68,32.4,47.5,61.6,14,20.5,25.9,17.3,24.8,31.3,Malta,Europa,2
+Europa,Eastern Europe,Moldova,Chișinău,2640438,22.7,32.4,42.1,22.7,33.5,43.2,4.3,7.6,9.7,11.9,18.4,23.8,Moldova,Europa,2.6
+Europa,Western Europe,Monaco,Monaco,39242,40,57.2,73.4,11.9,17.3,21.6,13,19.4,24.8,14,20.5,25.9,Monaco,Europa,3.3
+Europa,Southern Europe,Montenegro,Podgorica,621718,50.8,73.4,95,24.8,35.6,45.4,4.3,7.6,9.7,7.6,10.8,14,Montenegro,Europa,2.8
+Europa,Western Europe,Netherlands,Amsterdam,17441139,59.4,85.3,110.2,25.9,37.8,48.6,4.3,7.6,9.7,11.9,17.3,21.6,Netherlands,Europa,2.5
+Europa,Southern Europe,North Macedonia,Skopje,2083821,44.3,63.7,82.1,29.2,42.1,54,9.7,14,17.3,15.1,22.7,29.2,North Macedonia,Europa,1.5
+Europa,Northern Europe,Norway,Oslo,5421241,65.9,95,123.1,15.1,22.7,29.2,8.6,13,16.2,19.4,29.2,37.8,Norway,Europa,4.5
+Europa,Eastern Europe,Poland,Warsaw,38386000,35.6,51.8,67,32.4,46.4,59.4,5.4,8.6,10.8,14,20.5,25.9,Poland,Europa,3.8
+Europa,Southern Europe,Portugal,Lisbon,10295909,32.4,47.5,61.6,18.4,27,34.6,15.1,21.6,28.1,9.7,15.1,19.4,Portugal,Europa,1.9
+Europa,Eastern Europe,Romania,Bucharest,19121610,28.1,41,52.9,18.4,27,34.6,15.1,21.6,28.1,15.1,22.7,29.2,Romania,Europa,1.7
+Europa,Eastern Europe,Russia,Moscow,144104080,55.1,78.8,101.5,10.8,16.2,20.5,7.6,10.8,14,9.7,15.1,19.4,Russia,Europa,2.7
+Europa,Southern Europe,San Marino,San Marino,33938,22.7,33.5,43.2,28.1,41,52.9,14,20.5,25.9,14,20.5,25.9,San Marino,Europa,7.5
+Europa,Southern Europe,Serbia,Belgrade,6640000,32.4,47.5,61.6,22.7,33.5,43.2,11.9,17.3,21.6,19.4,29.2,37.8,Serbia,Europa,1.8
+Europa,Eastern Europe,Slovakia,Bratislava,5458827,35.6,51.8,67,17.3,25.9,33.5,14,20.5,25.9,13,19.4,24.8,Slovakia,Europa,2.6
+Europa,Southern Europe,Slovenia,Ljubljana,2100126,24.8,35.6,45.4,36.7,52.9,68,7.6,10.8,14,22.7,32.4,42.1,Slovenia,Europa,5.9
+Europa,Southern Europe,Spain,Madrid,47351567,29.2,42.1,54,31.3,45.4,58.3,9.7,14,17.3,22.7,32.4,42.1,Spain,Europa,4
+Europa,Northern Europe,Sweden,Stockholm,10327589,34.6,49.7,63.7,17.3,24.8,31.3,9.7,14,17.3,18.4,27,34.6,Sweden,Europa,6.4
+Europa,Western Europe,Switzerland,Bern,8654622,25.9,37.8,48.6,22.7,33.5,43.2,9.7,15.1,19.4,7.6,10.8,14,Switzerland,Europa,2.5
+Europa,Eastern Europe,Ukraine,Kyiv,41415000,36.7,52.9,68,31.3,45.4,58.3,5.4,8.6,10.8,22.7,32.4,42.1,Ukraine,Europa,2
+Europa,Northern Europe,United Kingdom,London,67215293,24.8,35.6,45.4,36.7,52.9,68,11.9,17.3,21.6,17.3,25.9,33.5,United Kingdom,Europa,4.9
+Europa,Southern Europe,Vatican City,Vatican City,825,54,77.8,100.4,34.6,49.7,63.7,7.6,11.9,15.1,9.7,14,17.3,Vatican City,Europa,4.5
+África,África Austral,Sudáfrica,Pretoria,59308690,21,30,39,14,20,26,25,37,48,30,43,55,Sudáfrica,África,5.8
+África,África Occidental,Nigeria,Abuja,206139589,28,41,53,15,22,28,15,22,28,19,28,36,Nigeria,África,5
+África,África del Norte,Egipto,El Cairo,102334404,26,38,49,7,10,13,29,42,54,23,33,42,Egipto,África,2.9
+África,África Oriental,Kenia,Nairobi,53771296,29,42,54,15,22,28,22,32,41,23,34,44,Kenia,África,4.2
+África,África del Norte,Marruecos,Rabat,36910560,20,29,37,15,22,28,21,31,40,24,35,45,Marruecos,África,6.3
+África,África del Norte,Argelia,Argel,43851044,31,45,58,28,41,53,28,41,53,19,28,36,Argelia,África,5.1
+África,África Oriental,Etiopía,Adís Abeba,114963588,16,24,31,8,12,15,21,30,39,19,28,36,Etiopía,África,6.4
+África,África Occidental,Ghana,Accra,31072940,19,28,36,21,31,40,23,33,42,17,25,32,Ghana,África,2.1
+África,África Oriental,Tanzania,Dodoma,59734218,11,16,20,12,18,23,29,42,54,11,17,22,Tanzania,África,2.4
+África,África Occidental,Senegal,Dakar,16743927,23,34,44,25,36,46,30,44,57,22,32,41,Senegal,África,7.3
+África,África del Norte,Túnez,Túnez,11818619,18,26,33,25,37,48,11,17,22,18,26,33,Túnez,África,5.5
+África,África Oriental,Uganda,Kampala,45741007,16,23,29,25,36,46,26,38,49,23,33,42,Uganda,África,3.1
+África,África Austral,Zambia,Lusaka,18383955,13,19,24,9,14,18,24,35,45,31,45,58,Zambia,África,1.8
+África,África Austral,Mozambique,Maputo,31255435,9,14,18,28,41,53,9,13,16,22,32,41,Mozambique,África,2.5
+África,África Central,Camerún,Yaundé,26545863,9,13,16,12,18,23,26,38,49,30,43,55,Camerún,África,4.2
+África,África Central,Angola,Luanda,32866272,9,13,16,21,30,39,15,22,28,31,45,58,Angola,África,3.4
+África,África Occidental,Costa de Marfil,Yamusukro,26378274,20,29,37,21,30,39,7,10,13,21,31,40,Costa de Marfil,África,4
+África,África Occidental,Malí,Bamako,20250833,28,41,53,26,38,49,24,35,45,19,28,36,Malí,África,6.9
+África,África Oriental,Ruanda,Kigali,12952218,7,11,14,11,17,22,17,25,32,31,45,58,Ruanda,África,3
+África,África Austral,Namibia,Windhoek,2540905,8,12,15,17,25,32,11,16,20,9,14,18,Namibia,África,2.3
+Asia,Asia Oriental,China,Pekín,1402112000,28,41,53,21,30,39,21,31,40,44,63,81,China,Asia,5.5
+Asia,Asia Meridional,India,Nueva Delhi,1380004385,49,70,91,42,60,78,14,21,27,26,38,49,India,Asia,6.6
+Asia,Asia Oriental,Japón,Tokio,126476461,14,20,26,11,17,22,42,60,78,16,23,29,Japón,Asia,6.5
+Asia,Asia Oriental,Corea del Sur,Seúl,51269185,24,35,45,19,28,36,14,21,27,12,18,23,Corea del Sur,Asia,6
+Asia,Sudeste Asiático,Indonesia,Yakarta,273523615,28,40,52,42,60,78,11,17,22,28,40,52,Indonesia,Asia,4.8
+Asia,Sudeste Asiático,Tailandia,Bangkok,69799978,24,35,45,15,22,28,30,44,57,41,59,76,Tailandia,Asia,6.8
+Asia,Sudeste Asiático,Vietnam,Hanói,97338579,49,70,91,30,43,55,13,19,24,28,40,52,Vietnam,Asia,4.2
+Asia,Sudeste Asiático,Filipinas,Manila,109581078,19,28,36,30,44,57,32,46,59,17,25,32,Filipinas,Asia,2.1
+Asia,Sudeste Asiático,Malasia,Kuala Lumpur,32365999,25,36,46,16,23,29,29,42,54,40,58,75,Malasia,Asia,4.2
+Asia,Sudeste Asiático,Singapur,Singapur,5850342,33,48,62,16,24,31,14,20,26,32,46,59,Singapur,Asia,1.6
+Asia,Asia Meridional,Pakistán,Islamabad,220892340,16,23,29,17,25,32,26,38,49,42,60,78,Pakistán,Asia,2.8
+Asia,Asia Meridional,Bangladés,Daca,164689383,39,56,72,42,61,79,46,67,87,25,36,46,Bangladés,Asia,3.5
+Asia,Asia Central,Kazajistán,Nursultán,18776707,35,50,65,23,33,42,41,59,76,42,60,78,Kazajistán,Asia,7.4
+Asia,Asia Central,Uzbekistán,Taskent,33469203,23,33,42,37,54,70,18,26,33,15,22,28,Uzbekistán,Asia,5.4
+Asia,Asia Occidental,Arabia Saudita,Riad,34813871,22,32,41,30,43,55,19,28,36,15,22,28,Arabia Saudita,Asia,4.3
+Asia,Asia Occidental,Israel,Jerusalén,8655535,48,69,89,10,15,19,30,43,55,18,27,35,Israel,Asia,2.8
+Asia,Asia Occidental,Irán,Teherán,83992949,11,16,20,37,53,68,37,54,70,18,26,33,Irán,Asia,1.6
+Asia,Asia Occidental,Jordania,Amán,10203134,26,38,49,33,48,62,13,19,24,37,53,68,Jordania,Asia,5.5
+Asia,Asia Occidental,Turquía,Ankara,84339067,28,40,52,24,35,45,48,69,89,25,36,46,Turquía,Asia,7.2
+Asia,Asia Meridional,Nepal,Katmandú,29136808,10,15,19,14,21,27,37,53,68,39,57,74,Nepal,Asia,2.6
